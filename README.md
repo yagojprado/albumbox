@@ -32,5 +32,5 @@ Após dar o comando, aparecerá um Qrcode no terminal. Você pode usar o aplicat
 ### Aplicativo em desenvolvimento.
 
 - [x] Ambiente de Desenvolvimento
-- [ ] Front-End
+- [x] Front-End
 - [ ] Back-End
