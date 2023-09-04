@@ -34,3 +34,5 @@ Após dar o comando, aparecerá um Qrcode no terminal. Você pode usar o aplicat
 - [x] Ambiente de Desenvolvimento
 - [x] Front-End
 - [ ] Back-End
+- [ ] Tela de login
+- [ ] Crud para o cadastro dos reviews
